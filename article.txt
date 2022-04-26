@@ -1,2 +1,2 @@
-Created by KatrinGutnik
+Created by OleksandrZaiets
 GitHub is an international web service for hosting IT projects and their joint development. The web service is based on the Git version control system and developed in Ruby on Rails and Erlang by GitHub, Inc.
